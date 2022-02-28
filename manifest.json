@@ -1,0 +1,7 @@
+{
+  "author": "JasperLorelai",
+  "description": "Shortens long sent Youtube video URLs to the short format.",
+  "license": "ISC",
+  "name": "Youtube Shortify",
+  "version": "1.0.0"
+}
